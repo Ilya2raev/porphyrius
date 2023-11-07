@@ -1,4 +1,6 @@
-# porphyrius
+![Image alt](https://github.com/Ilya2raev/porphyrius/blob/master/Porphyrius.jpg)
+
+# Чат-Бот Порфирий
 Inspired by Victor Olegovich Pelevin
 
 Чат-бот, основанный на главном герое книги «Путешествие в Элевсин».
